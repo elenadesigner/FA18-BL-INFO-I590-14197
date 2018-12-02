@@ -17,7 +17,7 @@ Name 3: Sidd Pratap: Medical Data & reference summarization for original dataset
 
 # Phase 2
 
-All contributd to Code, Data Cleaning, and debugging and organizing / attending meetings via videa and email. 
+All contributd to Code, Data Cleaning, and debugging and organizing / attending meetings via video and email. 
 All shared drafts to GITHUB.
 
 Name 1: Elena Kirzhner: GitHub setup & lead
