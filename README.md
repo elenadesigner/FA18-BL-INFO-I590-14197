@@ -32,6 +32,9 @@ Finalized group workflow in this phase.
 Each member worked individually durung the week, we all met on G-hangouts to consoidate code, debugging, and lesseons learned. Most useful part of this project was peer-to-peer interactions and getting a workflow finalized. 
 
 Roles evolved, with same mains:
+
 Name 1: Elena Kirzhner: GitHub setup & lead
+
 Name 2: Tristen O'Brien: Project manager & submission of files. 
+
 Name 3: Sidd Pratap: Medical Data & reference summarization for original dataset and publication.
